@@ -9,6 +9,7 @@ body{
     color: var(--main);
 }
 
+
 header{
     text-transform: uppercase;
     width: 100%;
@@ -38,7 +39,7 @@ li{
 }
 main{
     width: 75%;
-    margin: 5px auto;
+    margin: 40px auto;
 }
 img{
     position: absolute;
